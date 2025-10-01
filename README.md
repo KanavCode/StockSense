@@ -109,8 +109,4 @@ npm run dev
 - **Database**: SQLite (for model training)
 - **APIs**: RESTful endpoints for integration
 
----
-
-## License
-
-This project is licensed under the MIT License.
+MAde By ♡ from Team Hackolics(Kanav, Mann, Dhriti, Khushi)
