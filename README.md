@@ -15,7 +15,6 @@
 - [Project Structure](#project-structure)
 - [Getting Started](#getting-started)
 - [Tech Stack](#tech-stack)
-- [License](#license)
 
 ---
 
